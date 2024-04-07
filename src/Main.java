@@ -10,8 +10,6 @@ public class Main {
         Frontend frontend = new Frontend(backend);
         // Запускаем программу
         runApp(frontend);
-        int n = 12345;
-        
     }
 
     private static void runApp(Frontend frontend) {
